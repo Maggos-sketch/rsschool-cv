@@ -21,6 +21,9 @@ Here we can play with friends. All your results will be written to a file.
 
 And there are more than Paper or Rock or Scissors :)
 
+
+![Rock Papper Scissors Lizard ](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpikabu.ru%2Fstory%2Fkamennozhnitsyibumagayashcheritsaspok_1554635&psig=AOvVaw3nG5g7-5C1O4qIYNk7-Ca8&ust=1614793845453000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDdwcqWku8CFQAAAAAdAAAAABAD)
+
 ```Python
 import random, os.path
 players = {}
@@ -135,3 +138,13 @@ while True:
                     break
 
 ```
+
+## Experience
+None (
+
+## Education
+Secondary special education, Stepik(JavaScript course), JetBrains Academy(Python).
+
+## English
+Study on my own. Duolingo.
+
