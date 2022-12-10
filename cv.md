@@ -29,3 +29,19 @@
   - Django, React;
   - GIT;
   - HTML5, CSS3;
+
+## Code examples
+
+JS
+
+```function calculate(...args1) {
+  var z = 0;
+  for (let arg1 of args1) z += arg1;
+
+  return (...args2) => {
+    for (let arg2 of args2) z += arg2;
+
+    return z;
+  };
+}
+```
