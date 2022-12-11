@@ -34,3 +34,19 @@ body{
       0 0 150px #f09;
     color: #fff;
 }
+
+.h3_style{
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
+.list_style{
+    color: aqua;
+}
+
+.code_area{
+    width: 250px;
+    
+    background-color: #fff;
+}
