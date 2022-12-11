@@ -19,3 +19,18 @@ body{
     color: #fff;
     margin: 10% 0 15% 0;
 }
+
+.title_style{
+    text-transform: uppercase;
+    font-weight: 400;
+    text-shadow:
+      0 0 4px #fff,
+      0 0 11px #fff,
+      0 0 19px #fff,
+      0 0 40px #f09,
+      0 0 80px #f09,
+      0 0 90px #f09,
+      0 0 100px #f09,
+      0 0 150px #f09;
+    color: #fff;
+}
