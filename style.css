@@ -50,3 +50,23 @@ body{
     
     background-color: #fff;
 }
+
+.contact_link{
+    color: #0fa;
+}
+
+.logo{
+    max-width: 250px;
+    max-height: 50px;
+    margin-top: 25px;
+}
+
+.logo_container{
+    background-color: #f09;
+    width: 200px;
+    margin-top: 25px;
+}
+
+.github_link_me{
+    color: #0fa;
+}
